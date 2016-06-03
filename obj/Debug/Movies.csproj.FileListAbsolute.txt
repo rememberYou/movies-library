@@ -1,0 +1,29 @@
+C:\Users\TerencioThink\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\TerencioThink\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\TerencioThink\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\TerencioThink\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TerencioThink\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TerencioThink\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Movies.View.MovieForm.resources
+C:\Users\TerencioThink\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\TerencioThink\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Movies.csproj.GenerateResource.Cache
+C:\Users\TerencioThink\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\TerencioThink\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\TerencioThink\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Movies.csprojResolveAssemblyReference.cache
+C:\Users\TerencioThink\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\obj\Debug\Movies.View.MovieForm.resources
+C:\Users\TerencioThink\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\obj\Debug\Movies.csproj.GenerateResource.Cache
+C:\Users\TerencioThink\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\bin\Debug\Movies.exe.config
+C:\Users\TerencioThink\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\obj\Debug\Movies.Properties.Resources.resources
+C:\Users\TerencioThink\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\bin\Debug\Movies.exe
+C:\Users\TerencioThink\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\bin\Debug\Movies.pdb
+C:\Users\TerencioThink\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\obj\Debug\Movies.exe
+C:\Users\TerencioThink\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\obj\Debug\Movies.pdb
+C:\Users\TerencioThink\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\obj\Debug\Movies.csprojResolveAssemblyReference.cache
+C:\Users\TerencioThink\Documents\Visual Studio 2015\Projects\Movies Library\bin\Debug\Movies.exe.config
+C:\Users\TerencioThink\Documents\Visual Studio 2015\Projects\Movies Library\obj\Debug\Movies.exe
+C:\Users\TerencioThink\Documents\Visual Studio 2015\Projects\Movies Library\obj\Debug\Movies.pdb
+C:\Users\TerencioThink\Documents\Visual Studio 2015\Projects\Movies Library\obj\Debug\Movies.csprojResolveAssemblyReference.cache
+C:\Users\TerencioThink\Documents\Visual Studio 2015\Projects\Movies Library\obj\Debug\Movies.View.MovieForm.resources
+C:\Users\TerencioThink\Documents\Visual Studio 2015\Projects\Movies Library\obj\Debug\Movies.Properties.Resources.resources
+C:\Users\TerencioThink\Documents\Visual Studio 2015\Projects\Movies Library\obj\Debug\Movies.csproj.GenerateResource.Cache
+C:\Users\TerencioThink\Documents\Visual Studio 2015\Projects\Movies Library\bin\Debug\Movies.exe
+C:\Users\TerencioThink\Documents\Visual Studio 2015\Projects\Movies Library\bin\Debug\Movies.pdb

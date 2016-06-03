@@ -1,0 +1,522 @@
+[
+  {
+    "title": "The Spectacular Now",
+    "year": "2014",
+    "genre": "Drama",
+    "rating": "3.8",
+    "director": "James Ponsoldt",
+    "actors": [
+      "Miles Teller",
+      "Shailene Woodley",
+      "Brie Larson"
+    ],
+    "description": "A hard-partying high school senior's philosophy on life changes when he meets the not-so-typical \"nice girl\"."
+  },
+  {
+    "title": "Water for Elephants",
+    "year": "2011",
+    "genre": "Drama",
+    "rating": "4.0",
+    "director": "Francis Lawrence",
+    "actors": [
+      "Reese Witherspoon",
+      "Robert Pattinson",
+      "Christoph Waltz"
+    ],
+    "description": "Set in the 1930s, a former veterinary student takes a job in a traveling circus and falls in love with the ringmaster's wife."
+  },
+  {
+    "title": "The Prestige",
+    "year": "2006",
+    "genre": "Fantasy",
+    "rating": "4.3",
+    "director": "Christopher Nolan",
+    "actors": [
+      "Hugh Jackman",
+      "Christian Bale",
+      "Michael Caine"
+    ],
+    "description": "Two stage magicians engage in competitive one-upmanship in an attempt to create the ultimate stage illusion."
+  },
+  {
+    "title": "Inception",
+    "year": "2010",
+    "genre": "Science Fiction",
+    "rating": "4.5",
+    "director": "Christopher Nolan",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Marion Cotillard",
+      "Ellen Page"
+    ],
+    "description": "A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO."
+  },
+  {
+    "title": "The Revenant",
+    "year": "2016",
+    "genre": "Adventure",
+    "rating": "4.3",
+    "director": "Alejandro González Iñárritu",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Tom Hardy",
+      "Domhnall Gleeson"
+    ],
+    "description": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team."
+  },
+  {
+    "title": "Cube",
+    "year": "1999",
+    "genre": "Science Fiction",
+    "rating": "3.3",
+    "director": "Vincenzo Natali",
+    "actors": [
+      "Maurice Dean Wint",
+      "Nicole de Boer",
+      "Nicky Guadagni"
+    ],
+    "description": "6 complete strangers of widely varying personality characteristics are involuntarily placed in an endless kafkaesque maze containing deadly traps."
+  },
+  {
+    "title": "Remember Me",
+    "year": "2010",
+    "genre": "Drama",
+    "rating": "4.0",
+    "director": "Allen Coulter",
+    "actors": [
+      "Robert Pattinson",
+      "Emilie de Ravin",
+      "Chris Cooper"
+    ],
+    "description": "A romantic drama centered on two new lovers: Tyler, whose parents have split in the wake of his brother's suicide, and Ally, who lives each day to the fullest since witnessing her mother's murder."
+  },
+  {
+    "title": "Toy Story",
+    "year": "1996",
+    "genre": "Family",
+    "rating": "4.2",
+    "director": "John Lasseter",
+    "actors": [
+      "Richard Darbois",
+      "Jacques Ferrière",
+      "Jacques Balutin"
+    ],
+    "description": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room."
+  },
+  {
+    "title": "Cars",
+    "year": "2006",
+    "genre": "Family",
+    "rating": "3.7",
+    "director": "John Lasseter",
+    "actors": [
+      "Guillaume Canet",
+      "Bernard-Pierre Donnadieu",
+      "Cécile de France"
+    ],
+    "description": "A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family."
+  },
+  {
+    "title": "Gran Torino",
+    "year": "2009",
+    "genre": "Drama",
+    "rating": "4.6",
+    "director": "Clint Eastwood",
+    "actors": [
+      "Clint Eastwood",
+      "Bee Vang",
+      "Ahney Her"
+    ],
+    "description": "Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, a Hmong teenager who tried to steal Kowalski's prized possession: a 1972 Gran Torino."
+  },
+  {
+    "title": "Titanic",
+    "year": "1997",
+    "genre": "Drama",
+    "rating": "4.3",
+    "director": "James Cameron",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Kate Winsley",
+      "Billy Zane"
+    ],
+    "description": "A seventeen-year-old aristocrat falls in love with a kind, but poor artist aboard the luxurious, ill-fated R.M.S. Titanic."
+  },
+  {
+    "title": "Interstellar",
+    "year": "2014",
+    "genre": "Science Fiction",
+    "rating": "4.5",
+    "director": "Christopher Nolan",
+    "actors": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Michael Cayne"
+    ],
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+  },
+  {
+    "title": "Perched on a Tree",
+    "year": "1971",
+    "genre": "Comedy",
+    "rating": "2.3",
+    "director": "Serge Korber",
+    "actors": [
+      "Louis de Funès",
+      "Geraldine Chaplin",
+      "Olivier de Funès"
+    ],
+    "description": "Politician get hitch hikers on road and in one car accident they all end up on a tree above the sea."
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": "2001",
+    "genre": "Fantasy",
+    "rating": "4.1",
+    "director": "Chris Colombus",
+    "actors": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson"
+    ],
+    "description": "Rescued from the outrageous neglect of his aunt and uncle, a young boy with a great destiny proves his worth while attending Hogwarts School of Witchcraft and Wizardry."
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "year": "2002",
+    "genre": "Fantasy",
+    "rating": "3.9",
+    "director": "Chris Colombus",
+    "actors": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson"
+    ],
+    "description": "Harry ignores warnings not to return to Hogwarts, only to find the school plagued by a series of mysterious attacks and a strange voice haunting him."
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "year": "2004",
+    "genre": "Fantasy",
+    "rating": "4.0",
+    "director": "Alfonso Cuarón",
+    "actors": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson"
+    ],
+    "description": "It's Harry's third year at Hogwarts; not only does he have a new \"Defense Against the Dark Arts\" teacher, but there is also trouble brewing. Convicted murderer Sirius Black has escaped the Wizards' Prison and is coming after Harry."
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire",
+    "year": "2005",
+    "genre": "Fantasy",
+    "rating": "3.9",
+    "director": "Mike Newell",
+    "actors": [
+      "Daniel Radcliffe",
+      "Emma Watson",
+      "Rupert Grint"
+    ],
+    "description": "Harry finds himself mysteriously selected as an under-aged competitor in a dangerous tournament between three schools of magic."
+  },
+  {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "year": "2007",
+    "genre": "Fantasy",
+    "rating": "3.8",
+    "director": "David Yates",
+    "actors": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson"
+    ],
+    "description": "With their warning about Lord Voldemort's return scoffed at, Harry and Dumbledore are targeted by the Wizard authorities as an authoritarian bureaucrat slowly seizes power at Hogwarts."
+  },
+  {
+    "title": "The Great Gatsby",
+    "year": "2013",
+    "genre": "Drama",
+    "rating": "4.0",
+    "director": "Baz Luhrmann",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Tobey Maguire",
+      "Carey Mulligan"
+    ],
+    "description": "A writer and wall street trader, Nick, finds himself drawn to the past and lifestyle of his millionaire neighbor, Jay Gatsby."
+  },
+  {
+    "title": "Silent Hill",
+    "year": "2006",
+    "genre": "Horror",
+    "rating": "3.1",
+    "director": "Christophe Gens",
+    "actors": [
+      "Radha Mitchell",
+      "Sean Bean",
+      "Laurie Holden"
+    ],
+    "description": "A woman goes in search for her daughter within the confines of a strange, desolate town called Silent Hill."
+  },
+  {
+    "title": "Men, Women & Children",
+    "year": "2014",
+    "genre": "Drama",
+    "rating": "3.4",
+    "director": "Jason Reitman",
+    "actors": [
+      "Ansel Elgort",
+      "Jennifer Garner",
+      "Adam Sandler"
+    ],
+    "description": "A group of high school teenagers and their parents attempt to navigate the many ways the Internet has changed their relationships, their communication, their self-image, and their love lives."
+  },
+  {
+    "title": "The Jacket",
+    "year": "2005",
+    "genre": "Fantasy",
+    "rating": "3.4",
+    "director": "John Maybury",
+    "actors": [
+      "Adrien Brody",
+      "Keira Knightley",
+      "Kris Kristofferson"
+    ],
+    "description": "A Gulf war veteran is wrongly sent to a mental institution for insane criminals, where he becomes the object of a Doctor's experiments, and his life is completely affected by them."
+  },
+  {
+    "title": "I Am Legend",
+    "year": "2007",
+    "genre": "Science Fiction",
+    "rating": "3.9",
+    "director": "Francis Lawrence",
+    "actors": [
+      "Will Smith",
+      "Alice Braga",
+      "Charlie Tahan"
+    ],
+    "description": "Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure."
+  },
+  {
+    "title": "Exam",
+    "year": "2012",
+    "genre": "Mystery",
+    "rating": "3.3",
+    "director": "Stuart Hazeldine",
+    "actors": [
+      "Adar Beck",
+      "Gemma Chan",
+      "Nathalie Cox"
+    ],
+    "description": "The final eight candidates for a highly desirable corporate job are locked together in an exam room and given a test with one question. It seems simple yet confusing that soon, tensions begin to unravel."
+  },
+  {
+    "title": "The Notebook",
+    "year": "2004",
+    "genre": "Drama",
+    "rating": "4.3",
+    "director": "Nick Cassavetes",
+    "actors": [
+      "Ryan Gosling",
+      "Rachel McAdams",
+      "James Garner"
+    ],
+    "description": "A poor and passionate young man falls in love with a rich young woman and gives her a sense of freedom. They soon are separated by their social differences."
+  },
+  {
+    "title": "The Green Mile",
+    "year": "1999",
+    "genre": "Drama",
+    "rating": "4.6",
+    "director": "Frank Darabont",
+    "actors": [
+      "Tom Hanks",
+      "Michael Clarke Duncan",
+      "David Morse"
+    ],
+    "description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift."
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "year": "1995",
+    "genre": "Drama",
+    "rating": "4.5",
+    "director": "Frank Darabont",
+    "actors": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton"
+    ],
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+  },
+  {
+    "title": "The Social Network",
+    "year": "2010",
+    "genre": "Drama",
+    "rating": "4.0",
+    "director": "David Fincher",
+    "actors": [
+      "Jesse Eisenberg",
+      "Justin Timberlake",
+      "Andrew Garfield"
+    ],
+    "description": "Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the co-founder who was later squeezed out of the business."
+  },
+  {
+    "title": "Pawn Sacrifice",
+    "year": "2014",
+    "genre": "Historical",
+    "rating": "3.8",
+    "director": "Edward Zwick",
+    "actors": [
+      "Tobey Maguire",
+      "Liev Schreiber",
+      "Michael Stuhlbarg"
+    ],
+    "description": "Set during the Cold War, American chess prodigy Bobby Fischer finds himself caught between two superpowers and his own struggles as he challenges the Soviet Empire."
+  },
+  {
+    "title": "Testament of Youth",
+    "year": "2014",
+    "genre": "Historical",
+    "rating": "4.0",
+    "director": "James Kent",
+    "actors": [
+      "Alicié Vikander",
+      "Kit Harrington",
+      "Taron Egerton"
+    ],
+    "description": "A British woman recalls coming of age during World War I - a story of young love, the futility of war, and how to make sense of the darkest times."
+  },
+  {
+    "title": "Seven Pounds",
+    "year": "2009",
+    "genre": "Drama",
+    "rating": "3.9",
+    "director": "Gabriele Muccino",
+    "actors": [
+      "Will Smith",
+      "Rosario Dawson",
+      "Woody Harrelson"
+    ],
+    "description": "A man with a fateful secret embarks on an extraordinary journey of redemption by forever changing the lives of seven strangers."
+  },
+  {
+    "title": "The Perks of Being a Wallflower",
+    "year": "2012",
+    "genre": "Drama",
+    "rating": "4.4",
+    "director": "Stephen Chbosky",
+    "actors": [
+      "Emma Watson",
+      "Logan Lerman",
+      "Ezra Miller"
+    ],
+    "description": "An introvert freshman is taken under the wings of two seniors who welcome him to the real world."
+  },
+  {
+    "title": "Bel Ami",
+    "year": "2012",
+    "genre": "Drama",
+    "rating": "2.7",
+    "director": "Declan Donnellan",
+    "actors": [
+      "Robert Pattinson",
+      "Uma Thurman",
+      "Kristin Scott Thomas"
+    ],
+    "description": "A chronicle of a young man's rise to power in Paris via his manipulation of the city's wealthiest and most influential women."
+  },
+  {
+    "title": "Rush",
+    "year": "2013",
+    "genre": "Drama",
+    "rating": "4.4",
+    "director": "Ron Howard",
+    "actors": [
+      "Chris Hemsworth",
+      "Daniel Brühl",
+      "Olivia Wilde"
+    ],
+    "description": "The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda."
+  },
+  {
+    "title": "Ghost",
+    "year": "1990",
+    "genre": "Drama",
+    "rating": "3.9",
+    "director": "Jerry Zucker",
+    "actors": [
+      "Patrick Swayze",
+      "Demi Moore",
+      "Whoopi Goldberg"
+    ],
+    "description": "After an accident leaves a young man dead, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic."
+  },
+  {
+    "title": "Forrest Gump",
+    "year": "1994",
+    "genre": "Drama",
+    "rating": "4.6",
+    "director": "Robert Zemeckis",
+    "actors": [
+      "Tom Hanks",
+      "Gary Sinise",
+      "Robin Wright"
+    ],
+    "description": "Forrest Gump, while not intelligent, has accidentally been present at many historic moments, but his true love, Jenny Curran, eludes him."
+  },
+  {
+    "title": "Spider-Man",
+    "year": "2002",
+    "genre": "Family",
+    "rating": "4.0",
+    "director": "Sam Raimi",
+    "actors": [
+      "Tobey Maguire",
+      "Willem Dafoe",
+      "Kirsten Dunst"
+    ],
+    "description": "When bitten by a genetically modified spider, a nerdy, shy, and awkward high school student gains spider-like abilities that he eventually must use to fight evil as a superhero after tragedy befalls his family."
+  },
+  {
+    "title": "Spider-Man 2",
+    "year": "2004",
+    "genre": "Fantasy",
+    "rating": "3.8",
+    "director": "Sam Raimi",
+    "actors": [
+      "Tobey Maguire",
+      "Kirsten Dunst",
+      "James Franco"
+    ],
+    "description": "Peter Parker is beset with troubles in his failing personal life as he battles a brilliant scientist named Doctor Otto Octavius."
+  },
+  {
+    "title": "Spider-Man 3",
+    "year": "2007",
+    "genre": "Family",
+    "rating": "3.5",
+    "director": "Sam Raimi",
+    "actors": [
+      "Tobey Maguire",
+      "Kirsten Dunst",
+      "James Franco"
+    ],
+    "description": "A strange black entity from another world bonds with Peter Parker and causes inner turmoil as he contends with new villains, temptations, and revenge."
+  },
+  {
+    "title": "The Chronicles of Narnia - The Lion, the Witch and the Wardrobe",
+    "year": "2005",
+    "genre": "Fantasy",
+    "rating": "3.2",
+    "director": "Andrew Adamson",
+    "actors": [
+      "Georgie Henley",
+      "Skandar Keynes",
+      "Anna Popplewell"
+    ],
+    "description": "Four kids travel through a wardrobe to the land of Narnia and learn of their destiny to free it with the guidance of a mystical lion."
+  }
+]
