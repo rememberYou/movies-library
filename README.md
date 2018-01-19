@@ -19,6 +19,8 @@ It would be preferable to rewrite this project using the WPF.
 
 Import the project from Visual Studio or as you usually do for the C# projects.
 
+--------------------
+
 ### Contributions ###
 
 Various functions may be optimized or spelling errors may occur. If you want to
